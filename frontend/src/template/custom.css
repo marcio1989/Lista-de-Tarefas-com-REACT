@@ -1,0 +1,17 @@
+.btn {
+    margin-right: 5px; /* espaçamento no butão*/
+}
+
+.markedAsDone {
+    text-decoration: line-through;/* colocando uma frase tachado quando o projeto concluído*/
+    color: #777;/* alterando cor da fonte da lista do projeto concluído*/
+    
+}
+
+.tableActions { /* espaçamento para caber dois butões*/
+    width: 105px;
+}
+
+.todoForm { /* espaçamento entre a tabela com o campo de texto*/
+    padding-bottom: 60px;
+}
